@@ -1,15 +1,3 @@
-Settimana	Obiettivo
-1	Installazione strumenti, Git, GitHub, VS Code
-2	Progetto NLP: caricamento dati e preprocessing
-3	NLP: TF-IDF, Logistic Regression, valutazione
-4	NLP: DistilBERT, confronto modelli, Streamlit e pubblicazione
-5	Computer Vision con PyTorch e CNN
-6	Transfer Learning, Streamlit e pubblicazione
-7	Customer Churn, pipeline e FastAPI
-8	Rifinitura README, GitHub, portfolio e preparazione ai colloqui
-
-
-
 1. Problem statement
 
 “Why this matters”
@@ -18,12 +6,19 @@ Settimana	Obiettivo
 3. Model architecture
 4. Results
 
-metriche vere.
+true metrics
 
 5. Demo
 
-link deploy.
+deploy link
 
 6. Future improvements
 
-Questo piace tantissimo.
+this is very important
+
+
+
+HOW TO CLONE THE VIRTUAL ENV.
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
