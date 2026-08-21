@@ -10,7 +10,7 @@ The main goal is not simply to train models, but to understand and implement the
 
 ## About Me
 
-I am building my expertise in Machine Learning and AI Engineering, with a strong focus on practical implementation, clean software architecture, model evaluation, and deployment.
+I am building my expertise in **Machine Learning and AI Engineering**, with a strong focus on practical implementation, clean software architecture, model evaluation, and deployment.
 
 My approach is project-driven: each project is designed to demonstrate not only that a model can achieve good results, but also that I understand how to build a complete and reproducible ML system around it.
 
@@ -22,11 +22,11 @@ My approach is project-driven: each project is designed to demonstrate not only 
 
 An end-to-end Natural Language Processing system for analyzing customer reviews and predicting sentiment.
 
-**Technologies:**
+**Technologies**
 
 `Python` · `pandas` · `scikit-learn` · `Hugging Face` · `Transformers` · `Streamlit`
 
-**Main objectives:**
+**Main objectives**
 
 - Data preprocessing and exploration
 - Text classification
@@ -46,10 +46,11 @@ An end-to-end Natural Language Processing system for analyzing customer reviews 
 
 A computer vision system for detecting plant diseases from leaf images.
 
-**Technologies:**
+**Technologies**
+
 `Python` · `PyTorch` · `CNN` · `ResNet` · `Transfer Learning` · `Streamlit`
 
-**Main objectives:**
+**Main objectives**
 
 - Image preprocessing
 - Data augmentation
@@ -70,11 +71,11 @@ A computer vision system for detecting plant diseases from leaf images.
 
 A production-oriented machine learning system designed to predict whether a customer is likely to leave a service.
 
-**Technologies:**
+**Technologies**
 
 `Python` · `pandas` · `scikit-learn` · `XGBoost` · `FastAPI` · `Docker`
 
-**Main objectives:**
+**Main objectives**
 
 - Data preprocessing
 - Feature engineering
@@ -109,7 +110,9 @@ A production-oriented machine learning system designed to predict whether a cust
 - Transfer Learning
 - PyTorch
 - TensorFlow / Keras
-- Natural Language Processing
+
+### Natural Language Processing
+
 - Text Preprocessing
 - Text Classification
 - TF-IDF
@@ -154,39 +157,61 @@ My current learning path is structured progressively:
 ### Phase 1 — Machine Learning Fundamentals
 
 [x] Regression
+
 [x] Classification
+
 [x] Overfitting
+
 [x] Neural Networks
+
 [x] scikit-learn
+
 [x] TensorFlow / Keras
 
 ### Phase 2 — Applied ML Portfolio
 
 [ ] NLP
+
 [ ] Transformers
+
 [ ] Computer Vision
+
 [ ] Model Deployment
+
 [ ] FastAPI
+
 [ ] Docker
+
 [ ] Testing
+
 [ ] Production-oriented ML pipelines
 
 ### Phase 3 — ML Engineering / MLOps
 
 [ ] Advanced deployment
+
 [ ] CI/CD
+
 [ ] Experiment tracking
+
 [ ] Model monitoring
+
 [ ] Cloud platforms
+
 [ ] Kubernetes
+
 [ ] Advanced MLOps
 
 ### Phase 4 — Advanced AI
 
 [ ] LLM Engineering
+
 [ ] Retrieval-Augmented Generation
+
 [ ] Vector Databases
+
 [ ] Advanced NLP
+
 [ ] AI Agents
 
 The roadmap is intentionally progressive: strong Machine Learning and software-engineering fundamentals come before more advanced AI systems.
@@ -194,25 +219,45 @@ The roadmap is intentionally progressive: strong Machine Learning and software-e
 ## Repository Structure
 
 ai-ml-portfolio/
+
 │
+
 ├── README.md
+
 │
+
 ├── P01_AI_Review_Analyzer/
+
 │   ├── app/
+
 │   ├── data/
+
 │   │   ├── raw/
+
 │   │   └── processed/
+
 │   ├── models/
+
 │   ├── notebooks/
+
 │   ├── src/
+
 │   ├── tests/
+
 │   ├── README.md
+
 │   └── requirements.txt
+
 │
+
 ├── P02_Plant_Disease_Detection/
+
 │   └── ...
+
 │
+
 └── P03_Customer_Churn_Prediction/
+
     └── ...
 
 Each project has its own documentation, code, data workflow, models, and application components.
@@ -224,27 +269,49 @@ I am intentionally avoiding a portfolio made of isolated notebooks or copied tut
 Instead, each project aims to demonstrate an end-to-end workflow:
 
 Dataset
+
    ↓
+
 Data Exploration
+
    ↓
+
 Preprocessing
+
    ↓
+
 Feature Engineering
+
    ↓
+
 Model Training
+
    ↓
+
 Evaluation
+
    ↓
+
 Model Comparison
+
    ↓
+
 Model Persistence
+
    ↓
+
 Inference
+
    ↓
+
 Application / API
+
    ↓
+
 Deployment
+
    ↓
+   
 Documentation
 
 The objective is to develop the ability to build complete ML systems, not just individual models.
@@ -281,12 +348,12 @@ After completing the initial portfolio projects, the next focus areas will inclu
 
 ## Repository Status
 
-This portfolio is an active learning and development repository.
+This portfolio is an **active learning and development repository.**
 
 Projects are developed progressively, with emphasis on understanding the underlying concepts rather than simply following tutorials.
 
 ## Contact
 
-GitHub: **ProximaRenovatio
+GitHub: **ProximaRenovatio**
 
 *Built as part of my journey toward becoming a professional Machine Learning / AI Engineer.*
